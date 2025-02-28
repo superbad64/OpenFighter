@@ -1,3 +1,11 @@
+28022025:
+- Moved to a new repo/account
+- Dropped the Chimera entirely
+- Ork:
+    - Reworked the project from the ground up due to loss of files
+- New case: Ogre (American style build)
+- New case: Unhinged (clamshell style build)
+
 10112024:
 - Gnome/Goblin: (actual changes dated from November 7th; forgot to update this file)
 	- Merged the projects (under the Goblin name) as the distinction is pretty much unneeded in the end

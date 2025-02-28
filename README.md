@@ -8,7 +8,12 @@ Well... yeah that's about all there is to say. Peek the README files inside the 
 
 - Ork:
     - Sega 2P lever mounts
+    - Artwork cutouts
 - Unhinged:
     - Sega 2P lever mounts
-    - Renders for all layouts
-    - STLs
+    - Artwork cutouts
+- Ogre:
+    - Artwork cutouts
+- Goblin:
+    - Split for 220x220mm build plate
+    - Redo README

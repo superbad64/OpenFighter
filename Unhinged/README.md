@@ -30,7 +30,7 @@ Exact match not needed except for dimensions:
     - 6 for the hinges
     - 2 for the Neutrik
 
-Tools & auxiliaries:
+Tools && auxiliaries:
 
 - Soldering iron
 - (Optional but recommended) Neoprene glue/contact cement. CA glue should work too
