@@ -1,3 +1,6 @@
+07032025:
+- Added the Wanderer: a riff on Arcade Shock's Traveler, designed to be a simple, no-frills, easy to build experience
+
 28022025:
 - Moved to a new repo/account
 - Dropped the Chimera entirely
