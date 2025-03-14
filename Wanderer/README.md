@@ -6,31 +6,39 @@
 ---
 
 > [!IMPORTANT]
-> This is a WIP ! It's not yet quite ready for being actually brought in the physical world.  
-> Hic sunt dracones.
+> This is a WIP ! It's not yet quite ready to be actually brought into the physical world.  
+> *Hic sunt dracones.*
 
-This case is intended for a (relatively) compact build with all the features you'd normally expect in a modern fightstick, except art support.
-
+This case is intended for a (relatively) compact build with all the features you'd normally expect in a modern fightstick, except art support. It can have a magnetic bottom plate though !
 
 ## Parts list
 
 Must be exactly matched:
 
 - 8x M3S Ruthex heat-set inserts (all for the top side)
+- 4x M3S Ruthex heat-set inserts to mount the board
 - 1x Neutrik NA-USB
-- 8x 3x3 cylindrical magnets
+- For the bottom plate, either:
+    - 8x 4x5mm cylindrical magnets **and** 8x 3x3mm disc magnets
+    - Or 8x additional M3S Ruthex heat-set inserts
 
 Exact match not needed except for dimensions:
 
 - 4x ISO 7380 M3x8 hex socket button head screws
-- 8x DIN 7991/ISO 10642 M3x8 hex socket countersunk screws
+- 8x DIN 7991/ISO 10642 M3x8 hex socket countersunk screws (and 4 more if you aren't using magnets for the bottom plate)
 - 2x DIN 912/ISO 4672 M3x35 hex socket head cap screws for the Neutrik
 - 2x DIN 934/ISO 4032 M3 hex nuts
+- 2x DIN 912/ISO 4672 M3 hex socket head cap screws to mount the board (adapt the length to your standoffs, you need at least 4mm)
+
+It's Whatever (tm):
+
+- 3mm thick material for the sides (acrylic, 3D printed plastic, wood, metal, cardboard, marble, dry ice...)
 
 Tools && auxiliaries:
 
 - Soldering iron
 - (Optional but recommended) Medium strength threadlocker, aka blue Loctite(tm)
+- M3 standoffs if you wish to route wires under the board/do some actual cable management
 
 ## Build guide
 
@@ -44,7 +52,7 @@ At this point you have two (not mutually exclusive) choices:
 
 ### The Laser Way
 
-Congratulations, you found a couple of nice sheets of 3mm thick material ! (Acrylic, wood, brass, aerogel, idk)  
+Congratulations, you found a couple of nice sheets of 3mm thick material !  
 Bring the laser cut files to your favorite shop and laser away. It's kind of that simple.
 
 ### The Printer Way
@@ -53,7 +61,7 @@ Actually it's mostly the same thing, except you just upload the STL files to you
 
 ### Moving on
 
-Assemble the frame pieces together, without the corner posts. Slot in your top panels, and then screw the posts in. Optionally, weld the top panel halves together from the inside.
+Assemble the frame pieces together, without the corner posts. Slot in your top panels, and then screw the posts in. Optionally, weld the top panel halves together from the inside. Add the heat-set inserts if your top panel material allows it. They will protrude a bit; **this is perfectly normal**.
 
 Add your electronics (I know, this is a vague step, but that's as general as I need it to be)
 

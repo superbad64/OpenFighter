@@ -1,3 +1,12 @@
+14032025:
+- Wanderer:
+    - Properly named bottom panel objects (whoops)
+    - Added centering slots in bottom panels
+    - Changed post magnet size from 3x3 to 4x5 so as to use the same model whether one wants magnets or heat-set inserts
+    - Changed plate magnet size from 3x3 to 4x3 to match the above's diameter
+    - Added WASD and HitBox layouts
+    - Added mounting holes for mainboards
+
 07032025:
 - Added the Wanderer: a riff on Arcade Shock's Traveler, designed to be a simple, no-frills, easy to build experience
 
