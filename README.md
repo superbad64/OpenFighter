@@ -4,6 +4,24 @@
 
 Well... yeah that's about all there is to say. Peek the README files inside the folders for more info !
 
+Goblin: Flatbox-style build  
+![Goblin](img/goblin.png)
+
+Ikari: Tented ergonomic build
+![Ikari](img/ikari.png)
+
+Ogre: American-style build
+![Ogre](img/ogre.png)
+
+Ork: All-rounder compact build
+![Ork](img/ork.png)
+
+Unhinged: Clamshell design for easy access to the internals
+![Unhinged](img/unhinged.png)
+
+Wanderer: Cheap straightforward build
+![Wanderer](img/wanderer.png)
+
 ## TODO
 
 - Ork:

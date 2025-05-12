@@ -1,3 +1,9 @@
+12052025:
+- Ikari
+    - Added
+- Wanderer:
+    - Added "Next" variant
+
 14032025:
 - Wanderer:
     - Properly named bottom panel objects (whoops)
