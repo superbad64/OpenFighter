@@ -4,6 +4,8 @@
     - Added judgemental metrics to let the users know how I evaluate a given build
 - Goblin:
     - Put temporary in WIP status as I am redesigning the case from scratch
+- Ork:
+    - Redone from scratch for increased printability
 
 12052025:
 - Ikari

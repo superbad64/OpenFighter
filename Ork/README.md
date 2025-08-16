@@ -48,7 +48,17 @@ Tools && auxiliaries:
 
 ## Build guide
 
-TODO
+Print four corner pieces, the left and right ones, front and back dividers, the four short sides, then the bottom file twice. Press fit all parts of the frame together (clamps might help). Add heat set inserts.
+
+Pick a layout and print the top plates. Screw them to the frame. Get your art printed, your acrylic cut, and add them to the top. Secure with screws.
+
+Time to build the electronics !
+
+## TODO
+
+- Sega 2P layout
+- Better render
+- All art & cut files
 
 ## Acknowledgements
 
