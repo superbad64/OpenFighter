@@ -1,18 +1,19 @@
 # The Unhinged
 ## Fabled clamshell design of legend
 
+> [!NOTE]
+> This build will probably be either deleted or remade from scratch to address some of the building issues.
+
 ![Ironically, very much hinged](../img/unhinged.png)
 
 This compact build offers a clamshell design for easy access to the internals.
 
-> [!IMPORTANT]
-> This build will probably be either deleted or remade from scratch to address some of the building issues.
-
 ## The Stats
 
-Printability: 5/5 (none of the pieces are hard to print, but...)  
-Buildability: 2/5 (...there are lots of problems to actually put the lid together)
-Extra hardware: 2/5 (the door ball catch is *really* specific)
+**Printability**: 5/5 (none of the pieces are hard to print, but...)  
+**Buildability**: 2/5 (...there are lots of problems to actually put the lid together)
+**Extra hardware**: 2/5 (the door ball catch is *really* specific)
+**Price**: 3.5/5 (not too bad but the hinge hardware does affect the final BOM)
 
 ## Parts list
 

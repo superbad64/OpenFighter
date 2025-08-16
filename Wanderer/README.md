@@ -9,9 +9,10 @@ This case is intended for a (relatively) compact build with all the features you
 
 ## The Stats
 
-Printability: 5/5 (nothing to talk about)  
-Buildability: 5/5 (your little sister can probably do it)  
-Extra hardware: 5/5 (nothing unusual either)
+**Printability**: 5/5 (nothing to talk about)  
+**Buildability**: 5/5 (your little sister can probably do it)  
+**Extra hardware**: 5/5 (nothing unusual either)
+**Price**: 5/5 (as cheap as a full size case can get)
 
 Really the only problem is that the case is a little plain looking. YMMV.
 
@@ -19,20 +20,14 @@ Really the only problem is that the case is a little plain looking. YMMV.
 
 Must be exactly matched:
 
-- 8x M3S Ruthex heat-set inserts (all for the top side)
-- 4x M3S Ruthex heat-set inserts to mount the board
+- 16x M3S Ruthex heat-set inserts
 - 1x Neutrik NA-USB
-- For the bottom plate, either:
-    - 8x 4x5mm cylindrical magnets **and** 8x 3x3mm disc magnets
-    - Or 8x additional M3S Ruthex heat-set inserts
 
 Exact match not needed except for dimensions:
 
-- 4x ISO 7380 M3x8 hex socket button head screws
-- 8x DIN 7991/ISO 10642 M3x8 hex socket countersunk screws (and 4 more if you aren't using magnets for the bottom plate)
+- 16x DIN 7991/ISO 10642 M3x8 hex socket countersunk screws
 - 2x DIN 912/ISO 4672 M3x35 hex socket head cap screws for the Neutrik
 - 2x DIN 934/ISO 4032 M3 hex nuts
-- 2x DIN 912/ISO 4672 M3 hex socket head cap screws to mount the board (adapt the length to your standoffs, you need at least 4mm)
 
 It's Whatever (tm):
 
@@ -42,7 +37,6 @@ Tools && auxiliaries:
 
 - Soldering iron
 - (Optional but recommended) Medium strength threadlocker, aka blue Loctite(tm)
-- M3 standoffs if you wish to route wires under the board/do some actual cable management
 
 ## Build guide
 
@@ -65,11 +59,11 @@ Actually it's mostly the same thing, except you just upload the STL files to you
 
 ### Moving on
 
-Assemble the frame pieces together, without the corner posts. Slot in your top panels, and then screw the posts in. Optionally, weld the top panel halves together from the inside. Add the heat-set inserts if your top panel material allows it. They will protrude a bit; **this is perfectly normal**.
+Assemble the frame pieces together, without the corner posts. Slot in your top panels, and then screw the posts in. Optionally, weld the top panel halves together from the inside.
 
 Add your electronics (I know, this is a vague step, but that's as general as I need it to be)
 
-Snap in your bottom panel (you can also weld it from the inside).
+Screw in your bottom panel (you can also weld it from the inside).
 
 Boom, fightstick !
 

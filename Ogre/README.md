@@ -23,7 +23,7 @@ And the last difference: the build is a lot smaller than an original MAS (again 
 
 **Printability**: 3.5/5 (the external walls/"wings" really suck and take way too much time to print, and every grooved part needs support due to orientation)  
 **Buildability**: 5/5 (super roomy case that is very easy to put together and build in)  
-**Extra hardware**: 4/5 (technically you could print the dowels using a truncated cylinder, but the square neck bolts is where it loses a point for real)
+**Extra hardware**: 4/5 (technically you could print the dowels using a truncated cylinder, but the square neck bolts is where it loses a point for real)  
 **Price**: 4/5 (eats about an entire roll of plastic to be willed into existence; not too bad but definitely the most expensive build I have on the roster)
 
 ## Parts list
