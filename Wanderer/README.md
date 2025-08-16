@@ -5,11 +5,15 @@
 
 ---
 
-> [!IMPORTANT]
-> This is a WIP ! It's not yet quite ready to be actually brought into the physical world.  
-> *Hic sunt dracones.*
-
 This case is intended for a (relatively) compact build with all the features you'd normally expect in a modern fightstick, except art support. It can have a magnetic bottom plate though !
+
+## The Stats
+
+Printability: 5/5 (nothing to talk about)  
+Buildability: 5/5 (your little sister can probably do it)  
+Extra hardware: 5/5 (nothing unusual either)
+
+Really the only problem is that the case is a little plain looking. YMMV.
 
 ## Parts list
 

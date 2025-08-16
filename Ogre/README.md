@@ -19,6 +19,13 @@ Third big difference: The button layout has been adapter to something more hand-
 
 And the last difference: the build is a lot smaller than an original MAS (again done to be able to use it on my lap). The original is 40.64 x 25.40 x 12.7 centimeters, and this one is 32.8 x 23.2 x 7.8 centimeters.
 
+## The Stats
+
+**Printability**: 3.5/5 (the external walls/"wings" really suck and take way too much time to print, and every grooved part needs support due to orientation)  
+**Buildability**: 5/5 (super roomy case that is very easy to put together and build in)  
+**Extra hardware**: 4/5 (technically you could print the dowels using a truncated cylinder, but the square neck bolts is where it loses a point for real)
+**Price**: 4/5 (eats about an entire roll of plastic to be willed into existence; not too bad but definitely the most expensive build I have on the roster)
+
 ## Parts list
 
 Must be exactly matched:

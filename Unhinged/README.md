@@ -5,6 +5,15 @@
 
 This compact build offers a clamshell design for easy access to the internals.
 
+> [!IMPORTANT]
+> This build will probably be either deleted or remade from scratch to address some of the building issues.
+
+## The Stats
+
+Printability: 5/5 (none of the pieces are hard to print, but...)  
+Buildability: 2/5 (...there are lots of problems to actually put the lid together)
+Extra hardware: 2/5 (the door ball catch is *really* specific)
+
 ## Parts list
 
 Must be exactly matched:

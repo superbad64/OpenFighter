@@ -1,30 +1,44 @@
 # O.R.K.
 ## Regular fightstick case
 
+> [!NOTE]
+> This case is currently being remade from scratch. Stay tuned !
+
 ![Waaaaagh !](../img/ork.png)
 
 ---
 
-This case is intended for a (relatively) compact build with all the features you'd normally expect in a modern fightstick.
+An all-around, semi-compact case that has the footprint of an A4 sheet. Supports art prints.
+
+## The Stats
+
+**Printability**: 5/5 (no gimmicks)  
+**Buildability**: 4/5 (press-fit is a little hard but nothing insurmountable)  
+**Extra hardware**: 5/5 (nothing outside of acrylic and heat set inserts)  
+**Price**: 4.5/5 (it does need a lot of filament but nowhere near the Ogre, so it's still fairly cheap)
 
 ## Parts list
 
 Must be exactly matched:
 
-- 16x M3S Ruthex heat-set inserts:
+- 20x M3S Ruthex heat-set inserts:
     - 8 for the bottom panels
-    - 4 to attach the center joint pieces to the left && right frame parts
-    - 4 for the top panel
+    - 8 for the top panels
+    - 4 for the acrylic
 - 1x A4-sized 3mm thick sheet of material to laser cut for the top panel (acrylic, wood, brass...)
 
 Exact match not needed except for dimensions:
 
-- 4x ISO 7380 M3x8 hex socket button head screws for the acrylic
-- 12x DIN 7991/ISO 10642 M3x8 hex socket countersunk screws:
+- 4x ISO 7380 M3x5 hex socket button head screws for the acrylic
+- 24x DIN 7991/ISO 10642 M3x8 hex socket countersunk screws:
     - 8 for the bottom panel
-    - 4 to attach the frame to the center joint pieces
+    - 8 for the top panel
+    - 4 for the acrylic
+    - 4 to mount the lever (if applicable)
+- 4x DIN 7991/ISO 10642 M4x10 hex socket countersunk screws to mount the lever
 - 2x DIN 912/ISO 4672 M3x30 hex socket head cap screws for the Neutrik
-- 2x DIN 934/ISO 4032 M3 hex nuts
+- 4x M3 washer (also for the lever if there is one)
+- 6x DIN 934/ISO 4032 M3 hex nuts
 
 Tools && auxiliaries:
 
@@ -34,15 +48,10 @@ Tools && auxiliaries:
 
 ## Build guide
 
-Print the left && right frame parts corresponding to your layout of choice, the two center joints, and four biscuits. Join them, using glue and/or welding on the inside if needed. Add heat-set inserts. Use 2 DIN 7991/ISO 10642 M3x8 hex socket countersunk screws to secure the top panel to the center joints.
-
-Mount the Neutrik to the center front joiner using the two DIN 912/ISO 4672 M3x30 cap screws and the DIN 934/ISO 4032 hex nuts. Add your internals too (buttons, board, wires...)
-
-Print the bottom panel pieces, weld them if needed, and attach them to the frame.
-
-Get your topmost panel cut (and art if you want to) and secure it to the frame.
+TODO
 
 ## Acknowledgements
 
 - [Buttercade](https://www.etsy.com/shop/BUTTERCADE) for the Surround and Support project
 - [Junk Food Arcades](https://junkfoodarcades.com) for the Snack Box v2, which genuinely coincidentally happen to share a lot of general shapes with this project)
+- [The GP2040-CE project](https://gp2040-ce.info) for the GP2040-CE firmware

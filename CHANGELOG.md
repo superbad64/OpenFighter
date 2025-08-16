@@ -1,3 +1,10 @@
+16082025:
+- Added a Personal Builds section with my own variants, Miniboss NEO and Final Boss NEO
+- General:
+    - Added judgemental metrics to let the users know how I evaluate a given build
+- Goblin:
+    - Put temporary in WIP status as I am redesigning the case from scratch
+
 12052025:
 - Ikari
     - Added
