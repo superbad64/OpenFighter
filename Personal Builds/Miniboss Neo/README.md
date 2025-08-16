@@ -1,5 +1,7 @@
 # Miniboss NEO
 
+![I don't actually have a joke about minibosses](../../img/personal/miniboss.png)
+
 ---
 
 A variation on the Goblin build, adding two extra thumb buttons to a WASD layout alongside a Nunchuk port.
