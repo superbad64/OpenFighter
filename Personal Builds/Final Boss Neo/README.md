@@ -15,6 +15,13 @@ The lever and WASD clusters aren't active at the same time in order to comply wi
 
 The Nunchuk has been configured to be purely analog, which therefore *should not* break the rule on redundant inputs (this is the same rule that makes the Cross|Up tournament legal if you're wondering)
 
+## The Stats
+
+**Printability**: 5/5 (no tricky pieces at all)  
+**Buildability**: 4/5 if you heed my warning and use a Sanwa JLX; 2/5 otherwise (and as someone who doesn't particularly like the JLX, this hurts to say)  
+**Extra hardware**: 4/5 (the Nunchuk breakout might be the hardest part to get, which is really saying something)
+**Price**: 4/5 (for what it is, it's not bad)
+
 ## Parts list
 
 Must be exactly matched:
@@ -57,9 +64,9 @@ If you wanna replicate my exact build:
     - 6x 5mm for the button plates
 - 12x DIN 934/ISO 4032 M3 hex nuts
 - 1x any board that runs GP2040-CE (I use the Advanced Breakout Board produced by Smallcab)
-- 1x Brook wire harness
+- 1x Brook wire harness (if applicable to the above)
 - 1x Adafruit Nunchuk breakout
-- Extra wire
+- Extra wire (a lot, preferably stranded)
 - Crimping tool & 2.8mm spade connectors (just buy like a pack of a hundred, it's always useful)
 
 ## Build guide
@@ -84,13 +91,7 @@ Crimp another wire that you'll connect to the common terminal of the rocker (usu
 
 For the Nunchuk breakout, print an extra plate to use as a brace. Slide the adapter into the groove, then screw the holder plate and the brace plate on (the first one prevents the board from moving vertically, the second horizontally)
 
-Wiring the Nunchuk plate is kind of "to taste" and depending on what pins you have available. Check the GP2040-CE docs to know which i2c pairs you can use. Get 5v and ground from the screw terminals. If you can crimp a JST-PH connector you can also use the Expansion header normally used for the OLED display.
-
-## The Stats
-
-Printability: 5/5 (no tricky pieces at all)  
-Buildability: 4/5 if you heed my warning and use a Sanwa JLX; 2/5 otherwise (and as someone who doesn't particularly like the JLX, this hurts to say)  
-Extra hardware: 4/5 (the Nunchuk breakout might be the hardest part to get, which is really saying something)
+Wiring the Nunchuk breakout is kind of "to taste" and depending on what pins you have available. Check the GP2040-CE docs to know which i2c pairs you can use. Get 5v and ground from the screw terminals. If you can crimp a JST-PH connector you can also use the Expansion header normally used for the OLED display.
 
 ## Acknowledgements
 
