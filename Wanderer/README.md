@@ -5,7 +5,7 @@
 
 ---
 
-This case is intended for a (relatively) compact build with all the features you'd normally expect in a modern fightstick, except art support. It can have a magnetic bottom plate though !
+This case is intended for a (relatively) compact and simple build with all the features you'd normally expect in a modern fightstick, except art support.
 
 ## The Stats
 

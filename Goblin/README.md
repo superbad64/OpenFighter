@@ -1,9 +1,6 @@
 # G.O.B.L.I.N.
 ## Flat case and a good weekend project
 
-> [!NOTE]
-> This case is currently being remade from scratch. Stay tuned !
-
 ![I was rendered in Cycles and took like an hour... but at least I'm not EEVEE](../img/goblin.png)
 
 ---
@@ -16,17 +13,17 @@ The main difference with the OG Flatbox is that this is a bit chonkier, and uses
 
 **Printability**: 5/5 (very few supports, as long as you have a good bed level it should be a breeze)  
 **Buildability**: 4/5 (you will need to have solid bases in soldering to get this done)  
-**Extra hardware**: 4/5 (all of it can be easily bought online for cheap)
+**Extra hardware**: 4/5 (all of it can be easily bought online for cheap)  
 **Price**: 5/5 (it's about the cheapest controller I can make)
 
 ## Materials needed
 
 - 4x M4 x 20mm "Chicago bolts"
 - 15x MX-style switches
-- (Optional) 15x MX-style hotswap sockets (in case you want to change your switches)
+- (Optional) 15x MX-style hotswap sockets (in case you want to change your switches further down the line)
 - 12x round caps (see below)
 - 3x square keyboard caps
-- 4x 200 by 3mm metal rods (either brass or steel to taste)
+- 4x 200 by 3mm metal rods (either brass or steel, to taste)
 - A board capable of running GP2040-CE (I used a Waveshare RP2040-Zero)
 - Wire (solid core && stranded)
 - Wire strippers
