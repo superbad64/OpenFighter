@@ -21,7 +21,7 @@ The main difference with the OG Flatbox is that this is a bit chonkier, and uses
 
 ## Materials needed
 
-- 4x M4 x 25mm "Chicago bolts"
+- 4x M4 x 20mm "Chicago bolts"
 - 15x MX-style switches
 - (Optional) 15x MX-style hotswap sockets (in case you want to change your switches)
 - 12x round caps (see below)
@@ -41,7 +41,7 @@ I swear it's *that* straightforward.
 
 ## Building
 
-Assemble the two top halves, using the rods for alignment and support. Plastic weld or glue if you feel like it. Do the same for the bottom halves.
+Assemble the two top halves, using the rods for alignment and support. Put your outbound USB cable in the hole. Plastic weld or glue if you feel like it. Do the same for the bottom halves.
 
 Insert all your switches in the square holes; they're friction fit. Save the caps for later.
 

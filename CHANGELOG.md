@@ -1,3 +1,7 @@
+18082025:
+- Goblin:
+    - New version
+
 16082025:
 - Added a Personal Builds section with my own variants, Miniboss NEO and Final Boss NEO
 - General:

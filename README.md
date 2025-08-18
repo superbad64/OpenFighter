@@ -32,17 +32,3 @@ Unhinged: Clamshell design for easy access to the internals
 
 Wanderer: Cheap straightforward build
 ![Wanderer](img/wanderer.png)
-
-## TODO
-
-- Ork:
-    - Sega 2P lever mounts
-    - Artwork cutouts
-- Unhinged:
-    - Sega 2P lever mounts
-    - Artwork cutouts
-- Ogre:
-    - Artwork cutouts
-- Goblin:
-    - Split for 220x220mm build plate
-    - Redo README

@@ -19,7 +19,7 @@ The Nunchuk has been configured to be purely analog, which therefore *should not
 
 **Printability**: 5/5 (no tricky pieces at all)  
 **Buildability**: 4/5 if you heed my warning and use a Sanwa JLX; 2/5 otherwise (and as someone who doesn't particularly like the JLX, this hurts to say)  
-**Extra hardware**: 4/5 (the Nunchuk breakout might be the hardest part to get, which is really saying something)
+**Extra hardware**: 4/5 (the Nunchuk breakout might be the hardest part to get, which is really saying something)  
 **Price**: 4/5 (for what it is, it's not bad)
 
 ## Parts list
