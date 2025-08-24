@@ -2,7 +2,7 @@
 *.lnk
 *.pdf
 *.3mf
-*.dxf*
+*.dxf~
 */nocopy
 nocopy/*
 Wanderer/Variants/Next/Dolphin-logo.svg
