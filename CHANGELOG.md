@@ -1,3 +1,9 @@
+24082025:
+- New personal build: Raijin
+- Wanderer:
+    - Removed STL files pertaining to a magnetic bottom that never worked
+- Added a general hardware guide
+
 18082025:
 - Goblin:
     - New version
