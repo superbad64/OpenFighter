@@ -32,3 +32,6 @@ Unhinged: Clamshell design for easy access to the internals
 
 Wanderer: Cheap straightforward build
 ![Wanderer](img/wanderer.png)
+
+Tteokbokki Top Grade: Rough equivalent to "OC Do Not Steal"
+![Tteokbokki](img/tteokbokki.png)

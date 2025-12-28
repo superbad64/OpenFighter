@@ -12,10 +12,10 @@ A case that I swear no one has ever seen around.
 
 ## The Stats
 
-**Printability**: 4/5 (you do need a setup that is particularly good at bevels) 
+**Printability**: 4/5 (you do need a setup that is particularly good at bevels)  
 **Buildability**: 3/5 (mine had an issue with one rod out of four, so you might want to keep some WD40 on hand)  
 **Extra hardware**: 3/5 (does need a fair amount of screws, and the rods can be hard to source)  
-**Price**: 3/5 (the hardware *really* drives the BOM up on this one)
+**Price**: 3/5 (the hardware *really* drives the BOM up on this one)  
 
 ## Some context and questions I've been asked about it
 
