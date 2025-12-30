@@ -1,14 +1,14 @@
 # T.T.E.O.K.B.O.K.K.I. Top Grade Case
-## Proof that silly acronyms are sometimes a bad idea
+## Also known as "We have [REDACTED] at home"
 
 > [!NOTE]
-> This case is currently being worked on. Be advised that not everything is super fine tuned yet.
+> This case is currently being worked on (like doing tests about using wood dowels instead of steel rods and such). Be advised that not everything is super fine tuned yet.
 
 ![Non-copyright-infringing case](../img/tteokbokki.png)
 
 ---
 
-A case that I swear no one has ever seen around.
+A case that I swear no one has ever seen around. Comes with a magnetically attached bottom plate.
 
 ## The Stats
 
@@ -24,6 +24,10 @@ A few months ago I made the [Raijin](https://github.com/superbad64/OpenFighter/t
 For printability's sake I made one with full sides, instead of the recessed ones pictured above. The files for it are also available in the STL folder. Main difference is print orientation; support use is about the same either way, you just need to be *veeeeery* confident in your printer's ability to do that kind of bevel without support.
 
 Do keep in mind that this was *supposed* to be filled, sanded, primed, and then painted to hide the joint seams; therefore some of the conception really does not account for a default "extruded plastic" look. (It works though, but that's more a happy accident than anything else)
+
+### What are those plates on the front ?
+
+Basically I took a page out of the AFS enclosures who often have a ton of button holes on the front panel (6 + 3 Neutrik-style outlets), except I also have a need for things that are neither round nor fittable in a 24mm round hole (like, say, a Nunchuk port, or a tournament lockout switch). So I decided to make the holes slightly larger and use cover plates that I can then adapt for whatever hare-brained purpose I can find today. As an added bonus you can use them for accent colors !
 
 ## Parts list
 
@@ -43,15 +47,15 @@ Exact match not needed except for dimensions:
 - 2x DIN 912/ISO 4672 M3x30 hex socket head cap screws for the Neutrik
 - 12x DIN 912/ISO 4672 M3x20 hex socket head cap screws for the front plates
 - 16x M3 nuts and washers
-- 8x 15 by 3 millimeters disc-shaped magnets
-- 4x 3 by 300 millimeters steel rods
+- 8 or 12x 15 by 3 millimeters disc-shaped magnets (I find 8 to be largely enough but you do you)
+- 4x 3 by 300 millimeters steel rods (**This one is subject to change**)
 
 Tools && auxiliaries:
 
 - Soldering iron
 - Multi-purpose pliers to tighten all those nuts
-- (Optional but **vigorously** recommended) Ratcheting clamps
-- (Optional but recommended) Neoprene glue/contact cement. CA glue should work too
+- Neoprene glue/contact cement
+- (Optional but **vigorously** recommended) *Long* ratcheting clamps
 - (Optional but recommended) Medium strength threadlocker, aka blue Loctite(tm)
 
 ## Build guide
