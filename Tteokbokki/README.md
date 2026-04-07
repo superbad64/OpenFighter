@@ -14,20 +14,16 @@ A case that I swear no one has ever seen around. Comes with a magnetically attac
 
 **Printability**: 4/5 (you do need a setup that is particularly good at bevels)  
 **Buildability**: 3/5 (mine had an issue with one rod out of four, so you might want to keep some WD40 on hand)  
-**Extra hardware**: 3/5 (does need a fair amount of screws, and the rods can be hard to source)  
+**Extra hardware**: 3/5 (does need a fair amount of screws, and also magnets)  
 **Price**: 3/5 (the hardware *really* drives the BOM up on this one)  
 
 ## Some context and questions I've been asked about it
 
 A few months ago I made the [Raijin](https://github.com/superbad64/OpenFighter/tree/main/Personal%20Builds/Raijin) out of a desire to have a full-collar Korean build. Due to the frankly ludicrous BOM on it, I decided to revisit it, and the end result happened to be this very build.
 
-For printability's sake I made one with full sides, instead of the recessed ones pictured above. The files for it are also available in the STL folder. Main difference is print orientation; support use is about the same either way, you just need to be *veeeeery* confident in your printer's ability to do that kind of bevel without support.
+For printability's sake I made one with full sides, instead of the recessed ones pictured above. The files for it are also available in the STL folder.
 
 Do keep in mind that this was *supposed* to be filled, sanded, primed, and then painted to hide the joint seams; therefore some of the conception really does not account for a default "extruded plastic" look. (It works though, but that's more a happy accident than anything else)
-
-### What are those plates on the front ?
-
-Basically I took a page out of the AFS enclosures who often have a ton of button holes on the front panel (6 + 3 Neutrik-style outlets), except I also have a need for things that are neither round nor fittable in a 24mm round hole (like, say, a Nunchuk port, or a tournament lockout switch). So I decided to make the holes slightly larger and use cover plates that I can then adapt for whatever hare-brained purpose I can find today. As an added bonus you can use them for accent colors !
 
 ## Parts list
 
@@ -36,7 +32,7 @@ Must be exactly matched:
 - 14x M3S Ruthex heat-set inserts:
     - 6 for the acrylic
     - 8 for the top panels
-- 1x A3-sized 3mm thick sheet of material to drill or laser cut for the top panel (acrylic, wood, brass...)
+- 1x A3-sized 3mm thick sheet of material to drill or laser cut for the top panel (acrylic, wood, brass, dry ice, aerogel...)
 
 Exact match not needed except for dimensions:
 
@@ -48,7 +44,7 @@ Exact match not needed except for dimensions:
 - 12x DIN 912/ISO 4672 M3x20 hex socket head cap screws for the front plates
 - 16x M3 nuts and washers
 - 8 or 12x 15 by 3 millimeters disc-shaped magnets (I find 8 to be largely enough but you do you)
-- 4x 3 by 300 millimeters steel rods (**This one is subject to change**)
+- 4x 6x30mm dowel rods (you can just print them anyway)
 
 Tools && auxiliaries:
 
@@ -60,7 +56,7 @@ Tools && auxiliaries:
 
 ## Build guide
 
-Print both frame halves and carefully remove the supports. Insert the rods in the guiding holes and join the halves together, using neoprene glue.
+Print both frame halves and carefully remove the supports. Insert the dowels in the guiding holes and join the halves together, using neoprene glue.
 
 > [!IMPORTANT]
 > While I'm unsure of the exact effects of neoprene glue fumes on the human body/nervous system, it seems like a good idea to avoid spreading said glue too close to the holes into which a heat-set insert is going to be added in a few moments.
