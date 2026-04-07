@@ -1,21 +1,18 @@
 # T.T.E.O.K.B.O.K.K.I. Top Grade Case
 ## Also known as "We have [REDACTED] at home"
 
-> [!NOTE]
-> This case is currently being worked on (like doing tests about using wood dowels instead of steel rods and such). Be advised that not everything is super fine tuned yet.
-
 ![Non-copyright-infringing case](../img/tteokbokki.png)
 
 ---
 
-A case that I swear no one has ever seen around. Comes with a magnetically attached bottom plate.
+A case that I swear no one has ever seen around. Comes with a magnetically attached bottom plate (if you want it to; otherwise it's M3 Screw Land).
 
 ## The Stats
 
-**Printability**: 4/5 (you do need a setup that is particularly good at bevels)  
-**Buildability**: 3/5 (mine had an issue with one rod out of four, so you might want to keep some WD40 on hand)  
-**Extra hardware**: 3/5 (does need a fair amount of screws, and also magnets)  
-**Price**: 3/5 (the hardware *really* drives the BOM up on this one)  
+**Printability**: 4/5; You do need a setup that is particularly good at bevels and supports; I use tree supports for the frame  
+**Buildability**: 4/5; Large, roomy case with plenty of internal space  
+**Extra hardware**: 3/5; Does need a fair amount of screws, and also magnets  
+**Price**: 4/5; The hardware drives the BOM up a little on this one but nothing too cray cray  
 
 ## Some context and questions I've been asked about it
 
@@ -29,22 +26,24 @@ Do keep in mind that this was *supposed* to be filled, sanded, primed, and then 
 
 Must be exactly matched:
 
-- 14x M3S Ruthex heat-set inserts:
+- M3S Ruthex heat-set inserts:
     - 6 for the acrylic
     - 8 for the top panels
-- 1x A3-sized 3mm thick sheet of material to drill or laser cut for the top panel (acrylic, wood, brass, dry ice, aerogel...)
+    - 8 more if you're using the screw-on bottom
+- 1x A3-sized 2 or 3mm thick sheet of material to drill or laser cut for the top panel (acrylic, wood, brass, dry ice, aerogel...)
 
 Exact match not needed except for dimensions:
 
-- 8x DIN 7991/ISO 10642 M3x8 hex socket countersunk screws for the top panel halves
+- DIN 7991/ISO 10642 M3x8 hex socket countersunk screws for the top panel halves
+    - 8 for the top panel halves
+    - 8 more if you want the screw-on bottom panel
 - 6x ISO 7380 M3x8 hex socket button head screws for the acrylic
 - 4x DIN 7991/ISO 10642 M4x16 hex socket countersunk screws to mount the lever (if you choose to have one of course)
     - In a pinch, M3x16 also works as long as you're using a washer
 - 2x DIN 912/ISO 4672 M3x30 hex socket head cap screws for the Neutrik
-- 12x DIN 912/ISO 4672 M3x20 hex socket head cap screws for the front plates
-- 16x M3 nuts and washers
-- 8 or 12x 15 by 3 millimeters disc-shaped magnets (I find 8 to be largely enough but you do you)
-- 4x 6x30mm dowel rods (you can just print them anyway)
+- M3 nuts and washers (just grab a handful)
+- 8 or 12x 15 by 3 millimeters disc-shaped magnets if you want the magnetic bottom (I find 8 to be largely enough but you do you)
+- 4x 6x30mm dowel rods (you can just print them anyway, they're just cylinders)
 
 Tools && auxiliaries:
 
