@@ -1,3 +1,8 @@
+07042026:
+Whew. Been a while huh ?
+- Tteokbokki:
+    - Redid the entire model to fix panel stability issues
+
 24082025:
 - New personal build: Raijin
 - Wanderer:
